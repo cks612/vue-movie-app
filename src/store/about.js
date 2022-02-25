@@ -1,4 +1,5 @@
-import img from '~/assets/me.png'
+// import img from '~/assets/me.png';
+
 export default{
   namespaced : true,
   state: () => ({
