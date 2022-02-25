@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/vue'
+  publicPath: '/cks612/vue-movie-app'
 }
